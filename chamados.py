@@ -1,9 +1,3 @@
-"""
-Macro Recorder — Gravador e Reprodutor de Macros
-Interface gráfica estilo JitBit Macro Recorder.
-Suporte a combinações de tecla (Ctrl+C, Ctrl+V, etc.), scroll e mouse preciso.
-"""
-
 import ctypes
 import json
 import os
