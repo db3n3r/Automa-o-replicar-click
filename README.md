@@ -1,6 +1,7 @@
-# Macro Recorder
+# Automa-o-replicar-click
 
-Gravador e reprodutor de macros para Windows com interface gráfica, inspirado no JitBit Macro Recorder.  
+
+Gravador e reprodutor de macros para Windows com interface gráfica.  
 Grava cliques, movimentos do mouse, scroll e teclas (incluindo combinações como Ctrl+C, Ctrl+V, Alt+Tab) e reproduz tudo com fidelidade.
 
 ---
@@ -196,3 +197,4 @@ O campo `delta` é positivo para scroll para cima e negativo para baixo. Na repr
 ## Licença
 
 Este projeto é distribuído livremente para uso pessoal e educacional.
+
